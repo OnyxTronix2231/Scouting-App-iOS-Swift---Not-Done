@@ -1,0 +1,23 @@
+{
+    "elements" : [
+        {
+            "elementKind" : "title",
+            "elementValue" : "Autonomous",
+            "elementName" : "Autonomous",
+            "elementTitle" : "false"
+        },
+        {
+            "elementKind" : "multi-choice",
+            "elementValue" : "",
+            "elementOptions" : "Middle of subwoofers,AMP side,Source side,Other",
+            "elementName" : "Where did the robot start?",
+            "elementTitle" : "false"
+        },
+        {
+            "elementKind" : "Boolean",
+            "elementValue" : "false",
+            "elementName" : "",
+            "elementTitle" : "leading"
+        }
+    ]
+}
